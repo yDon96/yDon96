@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm currently a Master's Degree Student. I'm interested in Machine Learning, Cybersecurity and Mobile development. </h3>
+<h3 align="center">I'm AI Software Engineer. I'm interested in Machine Learning, Cybersecurity and Mobile development. </h3>
 
 - 🌱 I’m currently learning **Flutter** and **Artificial Intelligence**
 
