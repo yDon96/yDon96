@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">I'm AI Software Engineer. I'm interested in Machine Learning, Cybersecurity and Mobile development. </h3>
 
-- 🌱 I’m currently learning **Flutter** and **Artificial Intelligence**
-
 - 📫 How to reach me **you.donadeo@gmail.com**
 
-- 🚀 Get my resume on: **https://ydon96.github.io/**
+- 🚀 Get my resume on: **https://ydonadeo.xyz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
