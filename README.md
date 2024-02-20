@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm AI Software Engineer. I'm interested in Machine Learning, Cybersecurity and Mobile development. </h3>
+<h3 align="center">I'm AI Software Engineer. I'm interested in Machine Learning, AI and FullStack development. </h3>
 
 - 📫 How to reach me **you.donadeo@gmail.com**
 
